@@ -6,6 +6,7 @@
 - Always fork the repo before you commit any change
 - Never Ever create a pull request direclty without creating a branch
 - make sure to update and sync your forked repo with the main repo
+- Always
 
 ## some info to sync the updates
 
