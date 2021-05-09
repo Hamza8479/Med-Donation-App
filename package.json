@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Hamza8479/Med-Donation-App#readme",
   "dependencies": {
     "concurrently": "^6.1.0",
+    "dotenv": "^9.0.1",
     "express": "^4.17.1"
   },
   "devDependencies": {
